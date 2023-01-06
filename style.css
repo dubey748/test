@@ -1,0 +1,44 @@
+.cart{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+transition:0.3s;
+display:flex;
+gap: 50px;
+}
+
+.info{
+    padding:2px 16px;
+    
+}
+.cart:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)
+}
+.title{
+    background-color: #2fb3de;
+    height: 200px;
+color: white;
+text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    margin: 10px;;
+    padding:0;
+    word-spacing: 3px;
+
+}
+li{
+    display: inline;
+}
+
+
+.nav{
+    display: flex;
+    gap: 850px;
+}
+
+
+
+.data{
+   
+text-align: center;
+}
